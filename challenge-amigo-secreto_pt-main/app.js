@@ -52,7 +52,7 @@ function sortearAmigo() {
 
     // Verifica se há nomes na lista
     if (listaAmigos.length === 0) {
-        alert('Adicione pelo menos um amigo para sortear.');
+        alert('Adicione pelo menos um amigo para fazer o sorteio.');
         return;
     }
 
